@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Scripts>
+    <Script name="Step1" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromQuick time="0" position="utsr" interval="6" continued="6" color="j" type="0" action="10" />
+      <CopyToTheFollow colors="74 75 76 73" />
+    </Script>
+    <Script name="Step2" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromQuick time="12" position="kjih" interval="6" continued="6" color="j" type="0" action="10" />
+      <CopyToTheFollow colors="74 75 76" />
+    </Script>
+    <Script name="Step3" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromQuick time="24" position="a`_^" interval="6" continued="6" color="j" type="0" action="10" />
+      <CopyToTheFollow colors="74 75 76" />
+    </Script>
+    <Script name="Step4" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromQuick time="36" position="WVUT" interval="6" continued="6" color="j" type="0" action="10" />
+      <CopyToTheFollow colors="74 75 76" />
+    </Script>
+    <Script name="Step5" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromQuick time="48" position="MLKJ" interval="6" continued="6" color="j" type="0" action="10" />
+      <CopyToTheFollow colors="74 75 76" />
+    </Script>
+    <Script name="Step6" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromQuick time="60" position="CBA@" interval="6" continued="6" color="j" type="0" action="10" />
+      <CopyToTheFollow colors="74 75 76" />
+    </Script>
+    <Script name="Step7" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromQuick time="72" position="9876" interval="6" continued="6" color="j" type="0" action="10" />
+      <CopyToTheFollow colors="74 75 76" />
+    </Script>
+    <Script name="Step8" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromQuick time="84" position=",-./" interval="6" continued="6" color="j" type="0" action="10" />
+      <CopyToTheFollow colors="74 75 76" />
+    </Script>
+  </Scripts>
+  <Introduce></Introduce>
+  <AudioResources></AudioResources>
+</Root>

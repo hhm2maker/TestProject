@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Model>0</Model>
+  <FirstPage firstPageName="Page1.lightPage" />
+  <Pages>
+    <Page>Page1.lightPage</Page>
+    <Page>Page2.lightPage</Page>
+    <Page>Page3.lightPage</Page>
+    <Page>Page4.lightPage</Page>
+    <Page>Page5.lightPage</Page>
+    <Page>Page6.lightPage</Page>
+    <Page>Page7.lightPage</Page>
+    <Page>Page8.lightPage</Page>
+  </Pages>
+</Root>

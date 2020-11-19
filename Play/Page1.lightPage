@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Page>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="1.lightScript" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down />
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <GotoPage pageName="Page2.lightPage" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="3.lightScript" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <GotoPage pageName="Page2.lightPage" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="2.lightScript" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="5.lightScript" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+</Page>

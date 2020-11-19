@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Page>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down />
+      <Loop />
+      <Up />
+    </Button>
+    <Button>
+      <Down />
+      <Loop />
+      <Up />
+    </Button>
+    <Button>
+      <Down />
+      <Loop />
+      <Up />
+    </Button>
+    <Button>
+      <Down />
+      <Loop />
+      <Up />
+    </Button>
+    <Button>
+      <Down />
+      <Loop />
+      <Up />
+    </Button>
+    <Button>
+      <Down />
+      <Loop />
+      <Up />
+    </Button>
+    <Button>
+      <Down />
+      <Loop />
+      <Up />
+    </Button>
+    <Button>
+      <Down />
+      <Loop />
+      <Up />
+    </Button>
+    <Button>
+      <Down />
+      <Loop />
+      <Up />
+    </Button>
+    <Button>
+      <Down />
+      <Loop />
+      <Up />
+    </Button>
+    <Button>
+      <Down />
+      <Loop />
+      <Up />
+    </Button>
+    <Button>
+      <Down>
+        <LightFile fileName="2_5.lightScript" bpm="96" />
+        <GotoPage pageName="Page3.lightPage" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="is2.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+    <Button>
+      <Down>
+        <LightFile fileName="is4.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="is1.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+    <Button>
+      <Down />
+      <Loop />
+      <Up />
+    </Button>
+    <Button>
+      <Down>
+        <LightFile fileName="is3.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+    <Button>
+      <Down />
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+</Page>

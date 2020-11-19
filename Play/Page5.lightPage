@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Page>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="Page5_pl_25.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="Page5_pl_27.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="Page5_pl_35.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="Page5_pl_36.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="Page5_pl_38.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="Page5_pl_46.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="Page5_pl_48.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="Page5_pl_52.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="Page5_pl_54.mid" bpm="96" />
+        <GotoPage pageName="Page6.lightPage" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="Page5_pl_55.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="Page5_pl_62.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="Page5_pl_71.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="Page5_pl_82.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons>
+    <Button>
+      <Down>
+        <LightFile fileName="Page5_pl_84.mid" bpm="96" />
+      </Down>
+      <Loop />
+      <Up />
+    </Button>
+  </Buttons>
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+  <Buttons />
+</Page>

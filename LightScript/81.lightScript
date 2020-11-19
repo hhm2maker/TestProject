@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Scripts>
+    <Script name="Step1" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromQuick time="0" position="&quot;)+4qz|" interval="0" continued="12" color="R" type="0" action="11" />
+    </Script>
+    <Script name="Step2" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromQuick time="12" position="#(,35&gt;gpry}" interval="0" continued="12" color="N" type="0" action="11" />
+    </Script>
+    <Script name="Step3" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromQuick time="24" position="$'-26=?H]fhosx~" interval="0" continued="12" color="F" type="0" action="11" />
+    </Script>
+    <Script name="Step4" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromQuick time="36" position="%&amp;.17&lt;@GIRS\^eintw" interval="0" continued="12" color="B" type="0" action="11" />
+    </Script>
+    <Script name="Step5" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromQuick time="48" position="/08;AFJQT[_djmuv" interval="0" continued="12" color="2" type="0" action="11" />
+    </Script>
+    <Script name="Step6" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromQuick time="60" position="9:BEKPUZ`ckl" interval="0" continued="12" color="." type="0" action="11" />
+    </Script>
+    <Script name="Step7" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromQuick time="72" position="CDLOVYab" interval="0" continued="12" color="*" type="0" action="11" />
+    </Script>
+    <Script name="Step8" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromQuick time="84" position="MNWX" interval="0" continued="12" color="&amp;" type="0" action="11" />
+    </Script>
+  </Scripts>
+  <Introduce></Introduce>
+  <AudioResources></AudioResources>
+</Root>

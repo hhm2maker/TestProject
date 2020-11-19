@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Scripts>
+    <Script name="Step1" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromAutomatic automaticType="2" position=")$&amp;)'&amp;'%)*" />
+      <ShapeColor shapeType="radialVertical" colors="0 51 51 51 50 50 50 49 49 49" />
+      <ChangeTime operator="division" multiple="3" />
+    </Script>
+  </Scripts>
+  <Introduce></Introduce>
+  <AudioResources></AudioResources>
+</Root>

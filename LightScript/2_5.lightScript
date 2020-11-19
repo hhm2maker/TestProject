@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Scripts>
+    <Script name="Step1" value="" visible="true" contain="" intersection="" complement="">
+      <CreateFromAutomatic automaticType="0" position="27" continued="1" />
+      <ChangeColor colors="5" />
+      <CopyToTheFollow colors="9 13 17 21 33 45 49 53" />
+      <ChangeTime operator="division" multiple="3" />
+    </Script>
+  </Scripts>
+  <Introduce></Introduce>
+  <AudioResources></AudioResources>
+</Root>

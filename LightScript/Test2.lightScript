@@ -4,7 +4,6 @@
     <Script name="Step1" value="" visible="true" contain="" intersection="" complement="">
       <CreateFromFile fileName="81.lightScript" stepName="文件名：" />
       <ChangeColor colors="73 74 75 76" />
-      <SetStartTime number="10" hintKeyword="PleaseEnterTheStartTimeColon" />
     </Script>
   </Scripts>
   <Introduce></Introduce>
